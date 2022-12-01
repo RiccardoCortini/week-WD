@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>D1 Riccardo Cortini</title>
+    </head>
+    <body>
+        <h1>Riccardo Cortini</h1>
+        <h2>riccardocortini@hotmail.it</h2>
+        <main>
+            <a href="#">
+             <img
+                src=https://scontent-fco2-1.xx.fbcdn.net/v/t1.18169-9/25498014_10215094451260482_8205413719891588092_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=aIs0yuqeLD8AX_a5k9Z&_nc_ht=scontent-fco2-1.xx&oh=00_AfAb48ak3GVxrz8hYB1GEXol4fwGQsecC4-Ng8xJN3IKrg&oe=63A876DB
+                style="width:400px"
+                alt="Laurea Riccardo"/>
+            </a>   
+        <div>     
+            <a href="#footer">Scorri a fondo</a>
+        </div>        
+            <p>Ragazzo romano e romanista, amante del verde e del buon cibo.</p>
+            <p>I miei hobby spaziano dalle lunghe passeggiate alle escursioni.</p>
+        </main>
+        <div>
+            <p>Ho una laurea in Scienze Archeologiche. Se volete sapere di più su di me, andate su
+            <a href="https://www.linkedin.com/in/riccardo-cortini-6358a4ab/">Linkedin</a>
+            </p>
+        </div>
+        <div>
+            <h4>Le mie competenze</h4>
+                <ul>
+                  <li>cuoco</li>
+                 <li>pilota</li>
+                 <li>comico</li>
+                 <li>dog sitter</li>
+                </ul>
+            <h4>Competenze da acquisire</h4>    
+                <ol>
+                   <li>padronanza di html</li>
+                   <li>padronanza di css</li>
+                   <li>padronanza dell'inglese</li>
+                </ol>
+        </div>
+        <footer id="footer">
+            <small>©Riccardo Cortini </small>
+        </footer>
+    </body>
+</html>
